@@ -6,7 +6,7 @@ NAME ID GitHub
 
 PROJECT LINKS:
 
-1. https://github.com/codewarrior33/DCIT204-UG-Map-Project-Group36
+https://github.com/prolificdee99/DCIT_204_SEMESTER_PROJECT
 
 PRESENTATION OF ALGORITHM
 SUMMARY OF THE PROJECT DESCRIPTION
